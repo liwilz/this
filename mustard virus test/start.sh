@@ -1,0 +1,1 @@
+java -jar -Xms2048M -Xmx6144M forge.jar nogui
